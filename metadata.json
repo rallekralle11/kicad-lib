@@ -1,0 +1,24 @@
+{
+    "name": "Ping hobbyelektronik Library",
+    "description": "Containing any product i may make which could use kicad compatibility",
+    "description_full": "Containing any product i may make which could use kicad compatibility",
+    "identifier": "com.github.rallekralle11.kicad-lib",
+    "type": "library",
+    "author": {
+        "name": "Rasmus L.",
+        "contact": {
+            "web": "https://ping-el.se"
+        }
+    },
+    "license": "public-domain",
+    "resources": {
+        "homepage": "https://github.com/rallekralle11/kicad-lib"
+    },
+    "versions": [
+        {
+            "version": "1",
+            "status": "stable",
+            "kicad_version": "7.0.0"
+        }
+    ]
+}
