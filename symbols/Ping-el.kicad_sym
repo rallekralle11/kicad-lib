@@ -6,7 +6,7 @@
     (property "Value" "" (at 3.81 7.62 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Epi:Epi32U4_Noholes" (at 19.05 -8.89 0)
+    (property "Footprint" "Ping_el:Epi32U4_Noholes" (at 19.05 -8.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 3.81 7.62 0)
